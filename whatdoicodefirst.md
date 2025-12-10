@@ -1,4 +1,9 @@
-What to Code First:
+## Implementation  
+This should be a proxy first approach, users use my platform (or SDK?), provide their api keys and with our one api key, should be able to validate and use any LLMs within our scope with their apps.
+
+> NOTE: LLMs for now, more integrations later that require api keys
+
+## What to Code First:
 
 1. **main.py**  
    - Instantiate FastAPI
